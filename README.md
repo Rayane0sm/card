@@ -1,2 +1,4 @@
-#Cardiovascular Disease Risk Prediction
-This practical work involved predicting the risk of cardiovascular diseases using patient data. The workflow included data preparation, feature analysis, and the application of machine learning models to classify individuals at risk. Emphasis was placed on evaluating predictive performance with appropriate metrics, highlighting the potential of AI in healthcare applications
+# Cardiovascular Disease Risk Prediction
+
+This practical work involved predicting the risk of cardiovascular diseases using patient data. The workflow included data preparation, feature analysis, and the application of machine learning models to classify individuals at risk. 
+Emphasis was placed on evaluating predictive performance with appropriate metrics, highlighting the potential of AI in healthcare applications
